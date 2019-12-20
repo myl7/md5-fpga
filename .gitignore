@@ -1,0 +1,14 @@
+*
+!*/
+!/*
+*.xpr
+!/md5-fpga.srcs/sources_1/new/in_uart.v
+!/md5-fpga.srcs/sources_1/new/md5.v
+!/md5-fpga.srcs/sources_1/new/out_uart.v
+!/md5-fpga.srcs/sources_1/new/main.v
+!/md5-fpga.srcs/sources_1/ip/in_buf/in_buf.xci
+!/md5-fpga.srcs/constrs_1/new/board.xdc
+!/md5-fpga.srcs/sim_uart/new/out_uart_sim.v
+!/md5-fpga.srcs/sim_uart/new/in_uart_sim.v
+!/md5-fpga.srcs/sim_md5/new/md5_sim.v
+!/md5-fpga.srcs/sim_main/new/main_sim.v
